@@ -6,7 +6,7 @@ This Inventory Management System allows users to manage a list of items in a vir
 
 The purpose of developing this software is twofold: Firstly, it serves as a platform for deepening my understanding of essential C++ programming concepts. These include mastering data structures like structs and vectors, refining skills in input/output handling using file streams and console input, becoming proficient in error handling techniques, and mastering string manipulation methods. Secondly, this project aims to showcase my capability to implement fundamental CRUD (Create, Read, Update, Delete) operations within a console-based application. By demonstrating effective management of data, implementation of algorithms, and navigation of software complexity, this endeavor underscores my growth as a software engineer committed to continuous learning and improvement.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/jk5nqI4ph7I)
 
 # Development Environment
 
